@@ -1,1 +1,1 @@
-web: java  -jar build/libs/*-jruby.jar
+web: java -jar build/libs/*-jruby.jar
